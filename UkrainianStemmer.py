@@ -1,6 +1,6 @@
 # This script is an adapted version of the Ukrstemmer by GitHub-user 
 # Amice13 (https://github.com/Amice13/ukr_stemmer)
-# It features stricter stemming rules as the original
+# It features stricter stemming rules than the original
 
 import re
 
