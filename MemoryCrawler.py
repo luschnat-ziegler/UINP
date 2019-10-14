@@ -1,3 +1,6 @@
+# This script crawls the news section from the webpage www.memory.gov.ua and extracts the linked articles
+# Results are written in an SQL-database although it might probably be more advantageous to simply use a simple CSV or JSON
+
 import requests
 from datetime import datetime
 from urllib.parse import urljoin
